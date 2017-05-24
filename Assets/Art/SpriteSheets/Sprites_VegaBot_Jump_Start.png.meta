@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: 9a7d72afea36c184f8311816f04b3b18
+timeCreated: 1494989141
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprites_VegaBot_Jump_Start_0
+    21300002: Sprites_VegaBot_Jump_Start_1
+    21300004: Sprites_VegaBot_Jump_Start_2
+    21300006: Sprites_VegaBot_Jump_Start_3
+    21300008: Sprites_VegaBot_Jump_Start_4
+    21300010: Sprites_VegaBot_Jump_Start_5
+    21300012: Sprites_VegaBot_Jump_Start_6
+    21300014: Sprites_VegaBot_Jump_Start_7
+    21300016: Sprites_VegaBot_Jump_Start_8
+    21300018: Sprites_VegaBot_Jump_Start_9
+    21300020: Sprites_VegaBot_Jump_Start_10
+    21300022: Sprites_VegaBot_Jump_Start_11
+    21300024: Sprites_VegaBot_Jump_Start_12
+    21300026: Sprites_VegaBot_Jump_Start_13
+    21300028: Sprites_VegaBot_Jump_Start_14
+    21300030: Sprites_VegaBot_Jump_Start_15
+    21300032: Sprites_VegaBot_Jump_Start_16
+    21300034: Sprites_VegaBot_Jump_Start_17
+    21300036: Sprites_VegaBot_Jump_Start_18
+    21300038: Sprites_VegaBot_Jump_Start_19
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Jump_Start_0
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 3988
+        width: 628
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Jump_Start_1
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 3998
+        width: 734
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Jump_Start_2
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 4007
+        width: 751
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Jump_Start_3
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 4020
+        width: 698
+        height: 807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Jump_Start_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3040
+        width: 645
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Jump_Start_5
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 3028
+        width: 648
+        height: 909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Jump_Start_6
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 3018
+        width: 676
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Jump_Start_7
+      rect:
+        serializedVersion: 2
+        x: 2669
+        y: 3011
+        width: 695
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Jump_Start_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2012
+        width: 712
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Jump_Start_9
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 2005
+        width: 718
+        height: 846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Jump_Start_10
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 2002
+        width: 725
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Jump_Start_11
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 2000
+        width: 734
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Jump_Start_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1009
+        width: 742
+        height: 829
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Jump_Start_13
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1004
+        width: 790
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Jump_Start_14
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 1001
+        width: 827
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Jump_Start_15
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 1001
+        width: 827
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Jump_Start_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 10
+        width: 812
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Jump_Start_17
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 17
+        width: 771
+        height: 829
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Jump_Start_18
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 22
+        width: 740
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Jump_Start_19
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 27
+        width: 739
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

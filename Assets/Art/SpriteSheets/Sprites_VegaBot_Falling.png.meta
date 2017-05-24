@@ -1,0 +1,658 @@
+fileFormatVersion: 2
+guid: aa106d217853f07439900846d310ac48
+timeCreated: 1494989044
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprites_VegaBot_Falling_0
+    21300002: Sprites_VegaBot_Falling_1
+    21300004: Sprites_VegaBot_Falling_2
+    21300006: Sprites_VegaBot_Falling_3
+    21300008: Sprites_VegaBot_Falling_4
+    21300010: Sprites_VegaBot_Falling_5
+    21300012: Sprites_VegaBot_Falling_6
+    21300014: Sprites_VegaBot_Falling_7
+    21300016: Sprites_VegaBot_Falling_8
+    21300018: Sprites_VegaBot_Falling_9
+    21300020: Sprites_VegaBot_Falling_10
+    21300022: Sprites_VegaBot_Falling_11
+    21300024: Sprites_VegaBot_Falling_12
+    21300026: Sprites_VegaBot_Falling_13
+    21300028: Sprites_VegaBot_Falling_14
+    21300030: Sprites_VegaBot_Falling_15
+    21300032: Sprites_VegaBot_Falling_16
+    21300034: Sprites_VegaBot_Falling_17
+    21300036: Sprites_VegaBot_Falling_18
+    21300038: Sprites_VegaBot_Falling_19
+    21300040: Sprites_VegaBot_Falling_20
+    21300042: Sprites_VegaBot_Falling_21
+    21300044: Sprites_VegaBot_Falling_22
+    21300046: Sprites_VegaBot_Falling_23
+    21300048: Sprites_VegaBot_Falling_24
+    21300050: Sprites_VegaBot_Falling_25
+    21300052: Sprites_VegaBot_Falling_26
+    21300054: Sprites_VegaBot_Falling_27
+    21300056: Sprites_VegaBot_Falling_28
+    21300058: Sprites_VegaBot_Falling_29
+    21300060: Sprites_VegaBot_Falling_30
+    21300062: Sprites_VegaBot_Falling_31
+    21300064: Sprites_VegaBot_Falling_32
+    21300066: Sprites_VegaBot_Falling_33
+    21300068: Sprites_VegaBot_Falling_34
+    21300070: Sprites_VegaBot_Falling_35
+    21300072: Sprites_VegaBot_Falling_36
+    21300074: Sprites_VegaBot_Falling_37
+    21300076: Sprites_VegaBot_Falling_38
+    21300078: Sprites_VegaBot_Falling_39
+    21300080: Sprites_VegaBot_Falling_40
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 9394
+        width: 765
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_1
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 9399
+        width: 766
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_2
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 9404
+        width: 766
+        height: 789
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_3
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 9409
+        width: 766
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 8477
+        width: 766
+        height: 779
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_5
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 8482
+        width: 769
+        height: 774
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_6
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 8492
+        width: 770
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_7
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 8497
+        width: 771
+        height: 759
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 7565
+        width: 769
+        height: 753
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_9
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 7575
+        width: 766
+        height: 743
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_10
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 7580
+        width: 766
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_11
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 7580
+        width: 766
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 6648
+        width: 770
+        height: 733
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_13
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 6653
+        width: 771
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_14
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 6653
+        width: 776
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_15
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 6658
+        width: 776
+        height: 723
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 5726
+        width: 776
+        height: 717
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_17
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 5729
+        width: 778
+        height: 714
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_18
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 5731
+        width: 781
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_19
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 5736
+        width: 779
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 4804
+        width: 781
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_21
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 4809
+        width: 781
+        height: 697
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_22
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 4789
+        width: 781
+        height: 717
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_23
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 4774
+        width: 784
+        height: 732
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 3821
+        width: 786
+        height: 745
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_25
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 3811
+        width: 781
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_26
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 3797
+        width: 786
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_27
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 3786
+        width: 786
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2839
+        width: 785
+        height: 788
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_29
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 2829
+        width: 786
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_30
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 2824
+        width: 785
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_31
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 2814
+        width: 781
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_32
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1877
+        width: 781
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_33
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1877
+        width: 780
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_34
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 1882
+        width: 776
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_35
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 1882
+        width: 776
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 945
+        width: 771
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_37
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 945
+        width: 771
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_38
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 945
+        width: 766
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_39
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 950
+        width: 766
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Falling_40
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 13
+        width: 765
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

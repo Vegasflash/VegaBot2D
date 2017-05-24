@@ -1,0 +1,658 @@
+fileFormatVersion: 2
+guid: bc2fb073437c0b84ca3f70c8d904a8b0
+timeCreated: 1494988695
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprites_VegaBot_Idle_Unarmed_0
+    21300002: Sprites_VegaBot_Idle_Unarmed_1
+    21300004: Sprites_VegaBot_Idle_Unarmed_2
+    21300006: Sprites_VegaBot_Idle_Unarmed_3
+    21300008: Sprites_VegaBot_Idle_Unarmed_4
+    21300010: Sprites_VegaBot_Idle_Unarmed_5
+    21300012: Sprites_VegaBot_Idle_Unarmed_6
+    21300014: Sprites_VegaBot_Idle_Unarmed_7
+    21300016: Sprites_VegaBot_Idle_Unarmed_8
+    21300018: Sprites_VegaBot_Idle_Unarmed_9
+    21300020: Sprites_VegaBot_Idle_Unarmed_10
+    21300022: Sprites_VegaBot_Idle_Unarmed_11
+    21300024: Sprites_VegaBot_Idle_Unarmed_12
+    21300026: Sprites_VegaBot_Idle_Unarmed_13
+    21300028: Sprites_VegaBot_Idle_Unarmed_14
+    21300030: Sprites_VegaBot_Idle_Unarmed_15
+    21300032: Sprites_VegaBot_Idle_Unarmed_16
+    21300034: Sprites_VegaBot_Idle_Unarmed_17
+    21300036: Sprites_VegaBot_Idle_Unarmed_18
+    21300038: Sprites_VegaBot_Idle_Unarmed_19
+    21300040: Sprites_VegaBot_Idle_Unarmed_20
+    21300042: Sprites_VegaBot_Idle_Unarmed_21
+    21300044: Sprites_VegaBot_Idle_Unarmed_22
+    21300046: Sprites_VegaBot_Idle_Unarmed_23
+    21300048: Sprites_VegaBot_Idle_Unarmed_24
+    21300050: Sprites_VegaBot_Idle_Unarmed_25
+    21300052: Sprites_VegaBot_Idle_Unarmed_26
+    21300054: Sprites_VegaBot_Idle_Unarmed_27
+    21300056: Sprites_VegaBot_Idle_Unarmed_28
+    21300058: Sprites_VegaBot_Idle_Unarmed_29
+    21300060: Sprites_VegaBot_Idle_Unarmed_30
+    21300062: Sprites_VegaBot_Idle_Unarmed_31
+    21300064: Sprites_VegaBot_Idle_Unarmed_32
+    21300066: Sprites_VegaBot_Idle_Unarmed_33
+    21300068: Sprites_VegaBot_Idle_Unarmed_34
+    21300070: Sprites_VegaBot_Idle_Unarmed_35
+    21300072: Sprites_VegaBot_Idle_Unarmed_36
+    21300074: Sprites_VegaBot_Idle_Unarmed_37
+    21300076: Sprites_VegaBot_Idle_Unarmed_38
+    21300078: Sprites_VegaBot_Idle_Unarmed_39
+    21300080: Sprites_VegaBot_Idle_Unarmed_40
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 8033
+        width: 630
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_1
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 8033
+        width: 638
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_2
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 8033
+        width: 638
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_3
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 8033
+        width: 642
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 7231
+        width: 650
+        height: 797
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_5
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 7231
+        width: 652
+        height: 796
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_6
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 7231
+        width: 658
+        height: 796
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_7
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 7231
+        width: 660
+        height: 795
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6429
+        width: 665
+        height: 792
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_9
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 6429
+        width: 668
+        height: 792
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_10
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 6429
+        width: 673
+        height: 792
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_11
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 6429
+        width: 671
+        height: 792
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5626
+        width: 669
+        height: 791
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_13
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 5626
+        width: 669
+        height: 791
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_14
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 5626
+        width: 669
+        height: 789
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_15
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 5626
+        width: 669
+        height: 788
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4824
+        width: 665
+        height: 788
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_17
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 4824
+        width: 665
+        height: 788
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_18
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 4824
+        width: 664
+        height: 787
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_19
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 4824
+        width: 663
+        height: 787
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4022
+        width: 660
+        height: 787
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_21
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 4022
+        width: 660
+        height: 787
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_22
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 4022
+        width: 656
+        height: 787
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_23
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 4022
+        width: 655
+        height: 788
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3220
+        width: 653
+        height: 787
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_25
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 3220
+        width: 654
+        height: 788
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_26
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 3220
+        width: 651
+        height: 788
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_27
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 3220
+        width: 647
+        height: 788
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2413
+        width: 647
+        height: 793
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_29
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 2413
+        width: 647
+        height: 793
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_30
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 2413
+        width: 647
+        height: 796
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_31
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 2413
+        width: 643
+        height: 796
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1611
+        width: 643
+        height: 795
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_33
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1611
+        width: 643
+        height: 795
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_34
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1611
+        width: 641
+        height: 797
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_35
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 1611
+        width: 638
+        height: 797
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 809
+        width: 634
+        height: 796
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_37
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 809
+        width: 634
+        height: 796
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_38
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 809
+        width: 634
+        height: 797
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_39
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 809
+        width: 634
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_VegaBot_Idle_Unarmed_40
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3
+        width: 630
+        height: 803
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
