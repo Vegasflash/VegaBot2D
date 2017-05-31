@@ -1,0 +1,566 @@
+fileFormatVersion: 2
+guid: e626699d41c28a84bb6a513f7325fd24
+timeCreated: 1496260438
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Explosions_SS_0
+    21300002: Explosions_SS_1
+    21300004: Explosions_SS_2
+    21300006: Explosions_SS_3
+    21300008: Explosions_SS_4
+    21300010: Explosions_SS_5
+    21300012: Explosions_SS_6
+    21300014: Explosions_SS_7
+    21300016: Explosions_SS_8
+    21300018: Explosions_SS_9
+    21300020: Explosions_SS_10
+    21300022: Explosions_SS_11
+    21300024: Explosions_SS_12
+    21300026: Explosions_SS_13
+    21300028: Explosions_SS_14
+    21300030: Explosions_SS_15
+    21300032: Explosions_SS_16
+    21300034: Explosions_SS_17
+    21300036: Explosions_SS_18
+    21300038: Explosions_SS_19
+    21300040: Explosions_SS_20
+    21300042: Explosions_SS_21
+    21300044: Explosions_SS_22
+    21300046: Explosions_SS_23
+    21300048: Explosions_SS_24
+    21300050: Explosions_SS_25
+    21300052: Explosions_SS_26
+    21300054: Explosions_SS_27
+    21300056: Explosions_SS_28
+    21300058: Explosions_SS_29
+    21300060: Explosions_SS_30
+    21300062: Explosions_SS_32
+    21300064: Explosions_SS_33
+    21300066: Explosions_SS_34
+    21300068: Explosions_SS_35
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explosions_SS_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 843
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 824
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 809
+        width: 192
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_3
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 810
+        width: 197
+        height: 169
+      alignment: 9
+      pivot: {x: 0.4961653, y: 0.5201142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_4
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 808
+        width: 180
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_5
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 818
+        width: 143
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_6
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 841
+        width: 83
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 657
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 638
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 623
+        width: 192
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_10
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 624
+        width: 197
+        height: 169
+      alignment: 9
+      pivot: {x: 0.4961653, y: 0.5201142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_11
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 622
+        width: 180
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_12
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 632
+        width: 143
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_13
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 655
+        width: 83
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 471
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 452
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_16
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 437
+        width: 192
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_17
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 438
+        width: 197
+        height: 169
+      alignment: 9
+      pivot: {x: 0.4961653, y: 0.5201142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_18
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 436
+        width: 180
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_19
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 446
+        width: 143
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_20
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 469
+        width: 83
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 285
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 266
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_23
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 251
+        width: 192
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_24
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 252
+        width: 197
+        height: 169
+      alignment: 9
+      pivot: {x: 0.4961653, y: 0.5201142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_25
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 249
+        width: 180
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_26
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 260
+        width: 143
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_27
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 283
+        width: 83
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 99
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_30
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 64
+        width: 192
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_32
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 66
+        width: 197
+        height: 169
+      alignment: 9
+      pivot: {x: 0.4961653, y: 0.5201142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_33
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 64
+        width: 180
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_34
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 74
+        width: 143
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Explosions_SS_35
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 97
+        width: 83
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

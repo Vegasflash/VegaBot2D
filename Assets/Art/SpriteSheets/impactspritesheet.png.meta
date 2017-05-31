@@ -1,0 +1,510 @@
+fileFormatVersion: 2
+guid: 588a088ad77b67e41a57dba3c2a7cd60
+timeCreated: 1496256597
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: impactspritesheet_0
+    21300002: impactspritesheet_1
+    21300004: impactspritesheet_2
+    21300006: impactspritesheet_3
+    21300008: impactspritesheet_4
+    21300010: impactspritesheet_5
+    21300012: impactspritesheet_6
+    21300014: impactspritesheet_7
+    21300016: impactspritesheet_8
+    21300018: impactspritesheet_9
+    21300020: impactspritesheet_10
+    21300022: impactspritesheet_12
+    21300024: impactspritesheet_15
+    21300026: impactspritesheet_106
+    21300028: impactspritesheet_107
+    21300030: impactspritesheet_108
+    21300032: impactspritesheet_110
+    21300034: impactspritesheet_111
+    21300036: impactspritesheet_113
+    21300038: impactspritesheet_116
+    21300040: impactspritesheet_11
+    21300042: impactspritesheet_13
+    21300044: impactspritesheet_14
+    21300046: impactspritesheet_16
+    21300048: impactspritesheet_17
+    21300050: impactspritesheet_18
+    21300052: impactspritesheet_19
+    21300054: impactspritesheet_20
+    21300056: impactspritesheet_21
+    21300058: impactspritesheet_22
+    21300060: impactspritesheet_23
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: impactspritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 988
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 988
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 989
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 988
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 976
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 975
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 975
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 976
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 901
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 633
+        width: 234
+        height: 143
+      alignment: 9
+      pivot: {x: 0.85634476, y: 0.5044513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 637
+        width: 232
+        height: 122
+      alignment: 9
+      pivot: {x: 0.85941654, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 641
+        width: 236
+        height: 125
+      alignment: 9
+      pivot: {x: 0.8775992, y: 0.5101846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 623
+        width: 244
+        height: 158
+      alignment: 9
+      pivot: {x: 0.9043494, y: 0.47582814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 296
+        width: 236
+        height: 125
+      alignment: 9
+      pivot: {x: 0.86950773, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 296
+        width: 226
+        height: 125
+      alignment: 9
+      pivot: {x: 0.8802247, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 26
+        width: 85
+        height: 106
+      alignment: 9
+      pivot: {x: 0.3052982, y: 0.5180147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 54
+        width: 106
+        height: 78
+      alignment: 9
+      pivot: {x: 0.46997473, y: 0.34494957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 25
+        width: 106
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4561015, y: 0.6702339}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 28
+        width: 82
+        height: 104
+      alignment: 9
+      pivot: {x: 0.58538705, y: 0.5122408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 508
+        width: 42
+        height: 68
+      alignment: 9
+      pivot: {x: 0.16658238, y: 0.51872164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 501
+        width: 41
+        height: 84
+      alignment: 9
+      pivot: {x: 0.23607506, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 508
+        width: 49
+        height: 71
+      alignment: 9
+      pivot: {x: 0.29215536, y: 0.49103472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 508
+        width: 49
+        height: 71
+      alignment: 9
+      pivot: {x: 0.29215536, y: 0.49103472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 502
+        width: 41
+        height: 84
+      alignment: 9
+      pivot: {x: 0.23607506, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 508
+        width: 42
+        height: 68
+      alignment: 9
+      pivot: {x: 0.16658238, y: 0.51872164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 508
+        width: 42
+        height: 68
+      alignment: 9
+      pivot: {x: 0.16658238, y: 0.51872164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 502
+        width: 41
+        height: 84
+      alignment: 9
+      pivot: {x: 0.23607506, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 508
+        width: 49
+        height: 71
+      alignment: 9
+      pivot: {x: 0.26617432, y: 0.49103472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 508
+        width: 49
+        height: 71
+      alignment: 9
+      pivot: {x: 0.26617432, y: 0.49103472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 501
+        width: 41
+        height: 84
+      alignment: 9
+      pivot: {x: 0.23607506, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: impactspritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 509
+        width: 42
+        height: 68
+      alignment: 9
+      pivot: {x: 0.16658238, y: 0.51872164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -10,13 +10,13 @@ public class PlayerAttack : MonoBehaviour
     private float attackTimer = 0f;
     private float attackCoolDown = 0.3f;
 
-    public Collider attackTrigger;
+    public GameObject attackTrigger;
 
     private Animator anime;
 	
     void Awake()
     {
-        attackTrigger.enabled = false;
+        attackTrigger.SetActive(false);
     }
 	void Update ()
     {
@@ -25,7 +25,7 @@ public class PlayerAttack : MonoBehaviour
             isAttacking = true;
             attackTimer = attackCoolDown;
 
-            attackTrigger.enabled = true;
+            attackTrigger.SetActive(true);
         }
         if(isAttacking)
         {
@@ -36,7 +36,7 @@ public class PlayerAttack : MonoBehaviour
             else
             {
                 isAttacking = false;
-                attackTrigger.enabled = false;
+                attackTrigger.SetActive(false);
             }
         }
 	}
