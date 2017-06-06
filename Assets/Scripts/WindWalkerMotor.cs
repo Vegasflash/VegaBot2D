@@ -39,13 +39,13 @@ public class WindWalkerMotor : MonoBehaviour
     {
         hit = Physics2D.Raycast(transform.position, -Vector2.up, 1, 1 << LayerMask.NameToLayer("Boundary"));
         Debug.DrawRay(transform.position, -Vector2.up * 0.75f);
-        
+
         if (hit.collider != null)
-        {           
-            if(hit.distance > 1.0f)
+        {
+            if (hit.distance > 1.0f)
             {
                 anim.SetBool("isLanding", false);
-                
+
             }
             if (hit.distance >= 0.75f && hit.distance <= 1f)
             {
@@ -70,9 +70,9 @@ public class WindWalkerMotor : MonoBehaviour
             FaceDirection(1);
             transform.Translate(Vector3.right * speed * Time.deltaTime);
             //rB2D.AddForce(Vector3.right * speed);
-            player_is_moving = true;              
+            player_is_moving = true;
         }
-        else if(Input.GetKeyUp("d"))
+        else if (Input.GetKeyUp("d"))
         {
             //CheckIfRunning(0.2f);
             anim.SetBool("isRunning", false);
@@ -84,7 +84,7 @@ public class WindWalkerMotor : MonoBehaviour
             //rB2D.AddForce(Vector3.left * speed);
             player_is_moving = true;
         }
-        else if(Input.GetKeyUp("a"))
+        else if (Input.GetKeyUp("a"))
         {
             //CheckIfRunning(0.2f);
             anim.SetBool("isRunning", false);
@@ -94,8 +94,8 @@ public class WindWalkerMotor : MonoBehaviour
             if (Input.GetKeyDown("space"))
             {
                 //transform.Translate(Vector3.up * jumpForce);
-                anim.SetBool("isJumping", true);               
-                rB2D.AddForce(Vector3.up * jumpForce);             
+                anim.SetBool("isJumping", true);
+                rB2D.AddForce(Vector3.up * jumpForce);
             }
         }
         else if (!isGrounded)
@@ -124,22 +124,22 @@ public class WindWalkerMotor : MonoBehaviour
     void FaceDirection(int direction)
     {
         isFacingRight = !isFacingRight;
-        if(direction == 1)
+        if (direction == 1)
         {
             mySpriteRenderer.flipX = true;
-            
+
             anim.SetBool("isRunning", true);
             attackBox.transform.localRotation = Quaternion.Euler(0, 180, 0);
             gun.GunShift(direction);
-            
-        }   
+
+        }
         else if (direction == 2)
         {
             mySpriteRenderer.flipX = false;
             anim.SetBool("isRunning", true);
             attackBox.transform.localRotation = Quaternion.Euler(0, 0, 0);
             gun.GunShift(direction);
-        }      
+        }
     }
 
     IEnumerator CheckIfRunning(float time)
@@ -153,6 +153,14 @@ public class WindWalkerMotor : MonoBehaviour
         else
         {
             anim.SetBool("isRunning", true);
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag != "Player")
+        {
+            isGrounded = true;
         }
     }
 }

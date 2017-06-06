@@ -5,7 +5,7 @@ using UnityEngine;
 public class ShootScript : MonoBehaviour
 {
     public GameManagerScript gMScript;
-    public RangedCharge rangedChargeScript;
+    public ChargeBarScript rangedChargeScript;
 
     public GameObject Projectile_Emitter;
     public GameObject Projectile;

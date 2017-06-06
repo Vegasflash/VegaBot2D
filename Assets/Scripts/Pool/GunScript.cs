@@ -9,8 +9,9 @@ public class GunScript : MonoBehaviour
     public GameObject gun;
     public Projectile projectile;
 
-	// Use this for initialization
-	void Start ()
+
+    // Use this for initialization
+    void Start ()
     {
         PoolDescription pool = new PoolDescription();
         pool.name = bulletPrefab.name;

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine.UI;
 using UnityEngine;
 
-public class RangedCharge : MonoBehaviour
+public class ChargeBarScript : MonoBehaviour
 {
     public Image currentChargeUpBar;
     public GameObject chargeBar;
@@ -13,28 +13,15 @@ public class RangedCharge : MonoBehaviour
     float currentChargePoint = 1f;
     float maxChargePoint = 100f;
     float shakeAmount = 0f;
+    float chargeSpeed = 10f;
+    public float barCost = 1000f;
 
     bool isCharging;
-     
-    void UpdateRangedChargeBar()
-    {
-        float ratio = currentChargePoint / maxChargePoint;
-        currentChargeUpBar.rectTransform.localScale = new Vector3(ratio, 1, 1);
-    }
+    bool canShoot;
 
-    public void ChargeBar(float charge)
+    private void Awake()
     {
-        currentChargePoint += charge * Time.deltaTime;
-        if(currentChargePoint == maxChargePoint)
-        {
-            
-        }
-        UpdateRangedChargeBar();
-    }
-
-    public void Reset()
-    {
-        currentChargePoint = 1f;
+        //chargeBar = GetComponentInChildren<GameObject>();
     }
 
     void Start()
@@ -44,20 +31,58 @@ public class RangedCharge : MonoBehaviour
 
     void Update()
     {
-        if(Input.GetMouseButton(1))
-        {
-            isCharging = true;
-            chargeBar.SetActive(true);
-            if(Input.GetMouseButtonDown(0))
+        if (chargeBar)
+        { 
+            
+            if(currentChargePoint >= maxChargePoint)
             {
-                isCharging = false;
-                currentChargePoint = 1f;
+                canShoot = false;
+         
+            }
+            else
+            {
+                canShoot = true;
+            }
+
+
+            if (0 <= currentChargePoint)
+            {
+                ChargeBar(-chargeSpeed);
+            }
+            if (Input.GetMouseButtonDown(0) && canShoot == true)
+            {             
+                isCharging = true;
+                
+                ChargeBar(barCost);
+                if (Input.GetMouseButtonUp(0))
+                {
+                    isCharging = false;
+                }
             }
         }
-        if (!Input.GetMouseButton(1))
+    }
+
+    void UpdateRangedChargeBar()
+    {
+        float ratio = currentChargePoint / maxChargePoint;
+        Debug.Log(ratio);
+        currentChargeUpBar.rectTransform.localScale = new Vector3(ratio, 1, 1);
+    }
+
+    public void ChargeBar(float charge)
+    {
+        currentChargePoint += charge * Time.deltaTime;
+        
+        if(currentChargePoint >= maxChargePoint)
         {
-            chargeBar.SetActive(false);            
-        }             
+            currentChargePoint = maxChargePoint;
+        }
+        UpdateRangedChargeBar();
+    }
+
+    public void Reset()
+    {
+        currentChargePoint = 1f;
     }
 
     public void Shake(float amount, float duration)

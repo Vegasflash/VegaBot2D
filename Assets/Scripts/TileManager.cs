@@ -9,20 +9,21 @@ public class TileManager : MonoBehaviour {
     public GameObject cyber_tile;
     float offset = 1.28f;
 
-	void Start ()
+	void Awake()
     {
-        for(int i = 0; i < 10; i++)
+        for (int i = 0; i < 10; i++)
         {
             for(int j = 0; j < 10; j++)
             {
                 Vector3 newPos = new Vector3( i * offset, j * offset, 0);
-                Instantiate(cyber_tile, newPos ,Quaternion.identity);
+                Instantiate(cyber_tile, newPos , Quaternion.identity);
             }
         }
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	void Update()
+    {
 		
 	}
 }
